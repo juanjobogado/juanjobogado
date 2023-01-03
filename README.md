@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan José Bogado.</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina.</h3>
+<p>I'm a Full Stack Web Developer graduated from Henry's bootcamp and I'm currently looking for a job in this field.
+I love being in continuos learning, I consider myself proactive, and I can't stand quiet, I always have to be learning new stuff, working in projects, and learning new languages.
+The thechnologies I work with are Javascript, CSS, HTML, Express, React, Redux, NextJs, Prisma, PostgreSQL, Sequelize, JQuery, NodeJs, Cloudinary and Bootstrap, and I'm willing to learn more.
+I also have as soft skills SCRUM, and the GitFlow.
+Besides the projects I made during the time I studied in Henry, I also was Teacher Assistant. And before Henry, I used to teach Spanish to people from all over the world. So I love meeting new people, work with them, and learn from them as well.</p>
 
 - 📫 How to reach me **juanjobogado13@gmail.com**
 
